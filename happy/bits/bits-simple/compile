@@ -1,0 +1,1 @@
+happy *.y && ghc *.hs && echo running && ./parse
